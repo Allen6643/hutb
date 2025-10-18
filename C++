@@ -1,0 +1,1 @@
+:: /H copy hidden .git directory
