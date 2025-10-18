@@ -1,0 +1,5 @@
+smoke.test_collision_determinisn smoke.test_props_loading
+smoke.test_sensor_tick_time smoke.test_map smoke.test _snapshot smoke.test_lidar
+smoke.test_streamming smoke. test_spawmnpionts smoke.test_blueprint
+smoke.test_collision_sensor smoke.test_world smoke.test_geoconversion
+
